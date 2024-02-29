@@ -5,7 +5,7 @@ including both electronics and robotics projects from my University (U-Tad) as w
 # Structure
 
 Basics l:
--Arduino Mainboard
+- Arduino Mainboard
 - LED control projects
 - Introduction of the button
 - First steps of the for loop
