@@ -1,5 +1,9 @@
 # Arduino Projects
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25bbeb8d-f27a-411a-b0b5-b8d545559b25" width="300">
+</p>
+
 Welcome to my Arduino Projects repository! This collection includes a variety of hands-on projects that explore the fascinating intersection of **programming, electronics, and robotics**. The content here is a mix of **academic work** developed during my studies at **U-Tad University** and **personal experiments** aimed at deepening my understanding of embedded systems.
 
 Whether you're just starting with Arduino or looking to expand your knowledge, this repository offers a **structured learning path** to guide you through the essentials and beyond.
